@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranoti-d
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning Google Data Studio
+- 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on building data products
 - 📫 How to reach me deshmukhpranoti@gmail.com
 
